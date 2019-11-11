@@ -1,0 +1,11 @@
+footer{
+    background-color: black;
+}
+.myFooter{
+    position: fixed;
+    margin: auto;
+    width: 100%;
+    left: 0;
+    bottom: 0;
+    padding: 5px;
+}

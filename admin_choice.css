@@ -1,0 +1,10 @@
+#addItems,#manageOrders{
+    width: 200px;
+    margin-left: 30px;
+}
+#addItems{
+    margin-top: 100px;
+}
+#manageOrders{
+    margin-top: 20px;
+}
