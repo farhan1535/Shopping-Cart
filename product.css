@@ -1,0 +1,26 @@
+#sessionEmail{
+    margin: auto;
+}
+#shopIcon{
+    width: 40px;
+    height: 40px;
+}
+#shopIcon:hover{
+    cursor: pointer;
+}
+#searchBar{
+    width: 250px;
+}
+#tid{
+    margin-top: 20px;
+}
+.imgClass{
+    width: 50px;
+    height: 50px;
+}
+.badge-notify{
+    background-color: royalblue;
+    position: relative;
+    top: -20px;
+    left: -15px;
+}

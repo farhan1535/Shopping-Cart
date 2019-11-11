@@ -1,0 +1,18 @@
+h2{
+    margin: auto;
+}
+.newRow{
+    margin-top: 10px;
+    width: 250px;
+    height: 250px;
+}
+.imgClass{
+    width: 250px;
+    height: 250px;
+}
+h3{
+    margin-left: 80px;
+}
+img:hover{
+    cursor: pointer;
+}

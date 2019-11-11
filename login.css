@@ -1,0 +1,56 @@
+ body{
+     background-image: url("images/r2.jpg");
+     background-repeat: no-repeat;
+     background-size: cover;
+}
+ li{
+     list-style-type: none;
+ }
+ .form-inline{
+     margin-top: 40px;
+ }
+ .navigation{
+     margin-top: 8px;
+ }
+ #emailLabel{
+     margin-right: 20px;
+ }
+ .form-rounded{
+     border-radius: 1rem;
+ }
+ #logo{
+      width: 200px;
+      height: 70px;
+      margin-top: 10px;
+ }
+ #login{
+      background-color: white;
+      width: 360px;
+      height: 350px;
+      margin-top: 10px;
+      
+ }
+#inputFields{
+     margin:0px 0px 0px 15px;
+}
+#loginBtn{
+     width: 205px;
+     margin-top: 20px;
+     text-align: center;
+
+}
+#signUpBtn{
+     width: 205px;
+     margin-top: 20px;
+     margin-bottom: 70px;
+     text-align: center;
+}
+#buttons{
+     margin-left: 95px;
+}
+#eml{
+    margin-bottom: 10px;
+}
+.container{
+    width: 100%;
+}
